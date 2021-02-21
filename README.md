@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 6ixBot
 - 🌱 I’m currently learning machine learning techniques to advance PF calculations
 - 📫 How to reach me: ahmed.rosanally@mail.utoronto.ca
