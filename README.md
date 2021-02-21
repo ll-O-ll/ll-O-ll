@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ll-O-ll/ll-O-ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 6ixBot
 - 🌱 I’m currently learning machine learning techniques to advance PF calculations
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ahmed.rosanally@mail.utoronto.ca
 - 😄 Pronouns: https://pronoun.is/he
 - ⚡ Two truths One Lie:
   - I love chocolate chip cookies
-  - My favorite book is The Alchemist by by Paulo Coelho
+  - My favorite book is The Alchemist by Paulo Coelho
   - I enjoy pair programming 
--->
+ 
+[![Nissal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-O-ll)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll-O-ll)](https://github.com/anuraghazra/github-readme-stats)
