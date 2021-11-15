@@ -9,5 +9,5 @@
   - My favorite book is The Alchemist by Paulo Coelho
   - I enjoy pair programming 
  
-[![Nissal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-O-ll)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ll-O-ll)](https://github.com/anuraghazra/github-readme-stats)
+[![Nissal's GitHub stats](https://github-readme-stats.vercel.app/api?username&show_icons=true&theme=radical)=ll-O-ll)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username&show_icons=true&theme=radical)=ll-O-ll)](https://github.com/anuraghazra/github-readme-stats)
