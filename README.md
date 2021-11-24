@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TdotDJ](https://github.com/ll-O-ll/TdotDJ)
-- 🌱 I’m currently learning machine learning techniques [to advance PF calculations](https://github.com/ll-O-ll/HotStartACPF)
+- 🔭 Currently working on [TdotDJ](https://github.com/ll-O-ll/TdotDJ) for friends @ [Symbiosis](https://discord.gg/VPQj2JmdWN) 
+- 🌱 Learning machine learning techniques [to advance PF calculations](https://github.com/ll-O-ll/HotStartACPF)
 - 📫 How to reach me: ahmed.rosanally@mail.utoronto.ca
 - 😄 Pronouns: https://pronoun.is/he
 - ⚡ Two truths One Lie:
