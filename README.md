@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎯 Currently building software to help people go to space at  [MDA Space](https://mda.space/en/)
+- 🎯 Currently building software to send satellites to space at  [MDA Space](https://mda.space/en/)
 - 🔭 Tapped into the tech to build a [DJ robot](https://github.com/ll-O-ll/TdotDJ) for friends @ [Symbiosis](https://discord.gg/VPQj2JmdWN) 
 - 🌱 Thesis: Machine Learning Techniques [to advance PF calculations](https://github.com/ll-O-ll/HotStartACPF)
 - 📫 How to reach me: ahmed.rosanally@mail.utoronto.ca
