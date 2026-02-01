@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎯 Currently building software to send satellites to space at  [MDA Space](https://mda.space/en/)
-- 🔭 Very involved with community building using digital solutions see all work here: goastrolabe.com
+- 🔭 Very involved with community building using digital solutions see all work here: [GoAstroLabe](https://goastrolabe.com)
 - 🌱 Thesis: Machine Learning Techniques [to advance PF calculations](https://github.com/ll-O-ll/HotStartACPF)
 - 📫 How to reach me: ahmed.rosanally@mail.utoronto.ca
 - 😄 Pronouns: https://pronoun.is/he
